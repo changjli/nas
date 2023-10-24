@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/nas/static/css/main.35c23c35.css",
-    "main.js": "/nas/static/js/main.1fca6c7d.js",
+    "main.css": "/nas/static/css/main.cda4abb2.css",
+    "main.js": "/nas/static/js/main.ba2f88cc.js",
     "static/js/787.ed833688.chunk.js": "/nas/static/js/787.ed833688.chunk.js",
     "static/media/Nicholas Audric Surya CV & Portfolio.pdf": "/nas/static/media/Nicholas Audric Surya CV & Portfolio.58b2b923f97660a86478.pdf",
     "static/media/nicholas-audric.png": "/nas/static/media/nicholas-audric.ef9e7e1919ac594571da.png",
@@ -22,12 +22,12 @@
     "static/media/site-logo-white-bu.png": "/nas/static/media/site-logo-white-bu.945ed270bfca9bd3b766.png",
     "static/media/logo.svg": "/nas/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/nas/index.html",
-    "main.35c23c35.css.map": "/nas/static/css/main.35c23c35.css.map",
-    "main.1fca6c7d.js.map": "/nas/static/js/main.1fca6c7d.js.map",
+    "main.cda4abb2.css.map": "/nas/static/css/main.cda4abb2.css.map",
+    "main.ba2f88cc.js.map": "/nas/static/js/main.ba2f88cc.js.map",
     "787.ed833688.chunk.js.map": "/nas/static/js/787.ed833688.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.35c23c35.css",
-    "static/js/main.1fca6c7d.js"
+    "static/css/main.cda4abb2.css",
+    "static/js/main.ba2f88cc.js"
   ]
 }
